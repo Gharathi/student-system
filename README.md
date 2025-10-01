@@ -17,7 +17,8 @@ This project allows you to add student details (Name, Age, Course) and view them
 Student-system/ ├─ index.html ├─ style.css ├─ script.js └─ images/ (optional)
 
 ## Live Demo
-Check the live website here: [GitHub Pages Link](https://<your-username>.github.io/Student-system/)
+Check the live website here:GitHub Pages Link-
+(https://<Gharathi>.github.io/Student-system/)
 
 ## Author
 - G.Harathi
